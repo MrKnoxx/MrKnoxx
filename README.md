@@ -1,15 +1,19 @@
 
 
-Student - Python , Html
+**Student** - Python , Html
 
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/928575023705391135.png) -->
+<a href="https://discord.com/users/523137529373917186">
+<img src="https://discord.c99.nl/widget/theme-2/523137529373917186.png" alt="Discord"/>
+</a>
 
 
-**Bots**
-*Working on* - Flank
+
+## BOTS
+**FLANK**
 
 
 **Projects**
+**Working on** - Flank
 
 [Flank Bot](https://discord.com/api/oauth2/authorize?client_id=872295368963002380&permissions=8&scope=bot)
 
