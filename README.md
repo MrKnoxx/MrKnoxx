@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sasuke!  ![](https://komarev.com/ghpvc/?username=NightMare3301)
+
 
 Student - Python , Html
 
