@@ -2,7 +2,7 @@
 
 **Student** - Python , Html
 
-<a href="https://discord.com/users/523137529373917186">
+<a href="https://discord.com/users/517541745987289093">
 <img src="https://discord.c99.nl/widget/theme-2/523137529373917186.png" alt="Discord"/>
 </a>
 
