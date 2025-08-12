@@ -1,28 +1,45 @@
+# 👋 Hi, I'm MrKnoxx
 
+Welcome to my GitHub! I'm a pragmatic developer focused on building scalable, secure, and user-friendly automation tools—especially in the realm of OSINT and Discord bot development.
 
-**Student** - Python , Html
+## 🧠 What I Do
 
-<a href="https://discord.com/users/517541745987289093">
-<img src="https://discord.c99.nl/widget/theme-2/517541745987289093" alt="Discord"/>
-</a>
+- ⚙️ **Discord Bot Architect**  
+  Crafting advanced bots with button-based UIs, persistent premium user systems, and robust error handling using `discord.py`.
 
+- 🔍 **OSINT Automation**  
+  Building tools that streamline information gathering with precision and speed—because manual lookup is so last decade.
 
+- 🔗 **API Integration Mastery**  
+  Seamlessly connecting services with clean HTTP requests, smart JSON handling, and chunked message delivery to stay within platform limits.
 
-## BOTS
-**FLANK**
+- 💾 **Persistent Data Storage**  
+  Using JSON-based configurations and user management systems that are secure, scalable, and easy to maintain.
 
+## 🧰 Tech Stack
 
-**Projects**
-**Working on** - Flank
+| Language | Frameworks & Tools | Specialties |
+|----------|--------------------|-------------|
+| Python 🐍 | discord.py, requests, asyncio | Bot development, API integration |
+| JSON 📦 | Custom config systems | Persistent user data |
+| Git & GitHub 🛠️ | CI/CD ready | Version control & collaboration |
 
-[Flank Bot](https://discord.com/api/oauth2/authorize?client_id=872295368963002380&permissions=8&scope=bot)
+## 🚀 Featured Projects
 
+- **OSINT Lookup Bot**  
+  A premium-gated Discord bot that automates data retrieval with a sleek button UI and secure access control.
 
-[Support Server](https://discord.gg/programmer)
+- **Premium User Manager**  
+  JSON-backed system for managing exclusive features and owner checks—because not all users are created equal.
 
+- **Error-Handled Command Suite**  
+  Commands that fail gracefully and log intelligently. No more silent crashes or cryptic tracebacks.
 
-<a href="https://discord.com/users/523137529373917186" target="_blank" >
-    <img align ="left" alt="Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-  </a>
+## 🤝 Let's Collaborate
 
-![]()
+I’m always open to feedback, feature requests, and collaborative debugging. If you’ve got a cool idea or need help refining your bot, feel free to reach out.
+
+---
+
+📫 **Contact**:  
+DM me on Discord or open an issue on any repo—I'm fast, focused, and solution-oriented.
