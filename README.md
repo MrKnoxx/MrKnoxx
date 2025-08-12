@@ -16,13 +16,13 @@ Welcome to my GitHub! Reach out for any help or collaboration.
 ## 🧰 Tech Stack
 
 ### 💻 Languages  
-`Python` `JavaScript` `JSON` `TypeScript`
+🐍 `Python` &nbsp;&nbsp; 💻 `JavaScript` &nbsp;&nbsp; 📦 `JSON` &nbsp;&nbsp; 🧠 `TypeScript`
 
 ### 🧱 Frameworks & Libraries  
-`discord.py` `requests` `asyncio` `Express.js` `React`
+🤖 `discord.py` &nbsp;&nbsp; 🌐 `requests` &nbsp;&nbsp; 🔄 `asyncio` &nbsp;&nbsp; ⚡ `Express.js` &nbsp;&nbsp; ⚛️ `React`
 
 ### 🗃️ Tools & Platforms  
-`Git & GitHub` `CI/CD` `VS Code` `Postman` `MongoDB`
+🐙 `Git & GitHub` &nbsp;&nbsp; 🔁 `CI/CD` &nbsp;&nbsp; 🧑‍💻 `VS Code` &nbsp;&nbsp; 📬 `Postman` &nbsp;&nbsp; 🍃 `MongoDB`
 
 ---
 
@@ -42,4 +42,4 @@ Welcome to my GitHub! Reach out for any help or collaboration.
 ## 🤝 Let's Connect
 
 I'm always open to feedback, feature requests, and collaborative debugging.  
-📬 DM me on Discord or open an issue on any repo—I'm fast, focused, and solution-oriented.
+📬 DM me on Discord or open an issue on any repo—I'm fast, focused, and solution-oriented
