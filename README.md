@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Punit
+  Hi, I'm KnoxX
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Punit9464"><img src="https://visitor-badge.laobi.icu/badge?page_id=Punit9464.Punit9464" /></a>
+  <a href="https://github.com/mrknoxx"><img src="https://visitor-badge.laobi.icu/badge?page_id=mrknoxx.mrknoxx" /></a>
 </p>
 
 ---
@@ -107,7 +107,7 @@
 
  <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=Punit9464&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=mrknoxx&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&theme=dracula)
 <br>
 
 </div>
@@ -116,22 +116,22 @@
 
 <div align=center>
   
-![GitHub Streak](https://streak-stats.demolab.com?user=Punit9464&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mrknoxx&theme=github-dark-blue&hide_border=true)
 
 </div>
 
 ### 📈 Activity Graph
 
-[![Punit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Punit9464&bg_color=0d1117&color=3be8dc&line=3feeda&point=ffffff&area=true&hide_border=true)](https://github.com/Punit9464)
+[![KnoxX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrknoxx&bg_color=0d1117&color=3be8dc&line=3feeda&point=ffffff&area=true&hide_border=true)](https://github.com/mrknoxx)
 
 ---
 
 ### 🔗 &nbsp;Contact Me
 <div align="center">
-  <a href="mailto:punitkumar8728@gmail.com">
+  <a href="mailto:Knoxxop76@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://x.com/punit9464">
+  <a href="https://x.com/mrknoxx">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
